@@ -19,7 +19,7 @@ body{
     width: 650px;
     height: 350px;
     border: 1px solid #ada4a4;
-    margin: 20px;
+    margin: 15px;
     
 }
 .container-btn button{
@@ -31,6 +31,7 @@ body{
     width: 85px;
     align-items: center;
     flex-wrap: wrap;
+    margin-bottom: 95px;
 }
 
 .verde{
@@ -55,6 +56,9 @@ body{
 }
 .marrom{
     background-color:#392620 ;
+}
+.amarelo{
+    background-color: #ffff00;
 }
 
 .btn-verde{

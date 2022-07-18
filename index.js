@@ -35,6 +35,7 @@ function azul() {
     document.getElementById('exemplo').classList.remove('rosa')
     document.getElementById('exemplo').classList.remove('marrom')
     document.getElementById('exemplo').classList.add('azul')
+   
 
 }
 function laranja() {
@@ -79,5 +80,7 @@ function marrom() {
     document.getElementById('exemplo').classList.remove('rosa')
     document.getElementById('exemplo').classList.add('marrom')
 }
+
+
 
 buttons.addEventListener('click', changeColor )
